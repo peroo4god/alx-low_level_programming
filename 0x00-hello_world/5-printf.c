@@ -1,16 +1,11 @@
 #include <stdio.h>
 /**
- * main - prints all single digit numbers of base
- *  10 starting from 0, followed by a new line
+ * main - prints a c program using the printf function
  *
  * Return: 0
  */
 int main(void)
 {
-	int n;
-
-	for (n = 0; n < 10; n++)
-		printf("%d", n);
-	printf("\n");
+	printf("with proper grammer, but the outcome is a piece of art,\n");
 	return (0);
 }
